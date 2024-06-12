@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 - Meu nome é Emily de morais
 
 Estou estudando na Alura
